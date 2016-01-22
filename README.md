@@ -34,4 +34,4 @@ Each set of notes will come with consistent metadata, eg:
 
 ## Lectures Included
 
-- [2016-01-21 - UCL, London - We'll always have Paris: How COP21 produced a new international climate agreement - and why it just might work - Michael Jacobs]()
+- [2016-01-21 - UCL, London - We'll always have Paris: How COP21 produced a new international climate agreement - and why it just might work - Michael Jacobs](https://gist.github.com/huwd/b830ea4d236c549aa481)
