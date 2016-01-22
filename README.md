@@ -17,9 +17,9 @@ Each set of notes will come with consistent metadata, eg:
 
 - Date: "2016-01-21"
 - Title: "We'll always have Paris"
+- Subtitle: "How COP21 produced a new international climate agreement - and why it just might work"
 - Scheduled_start_time: 17:30
 - Scheduled_end_time: 19:00
-- Subtitle: "How COP21 produced a new international climate agreement - and why it just might work"
 - Location: London
 - Country: GB
 - Institutions: [University College London](https://www.ucl.ac.uk/)
