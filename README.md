@@ -30,4 +30,4 @@ Video_URL: "N/A"
 
 ## Lectures Included
 
-- [2016-01-21 - UCL, London - We'll always have Paris: How COP21 produced a new international climate agreement - and why it just might work - Michael Jacobs](https://gist.github.com/huwd/b830ea4d236c549aa481)
+- [2016-01-21 - UCL, London - We'll always have Paris: How COP21 produced a new international climate agreement - and why it just might work - Michael Jacobs](https://github.com/huwd/Public-lecture-notes/blob/master/2016-01-21%20-%20UCL%2C%20London%20-%20We'll%20always%20have%20Paris:%20How%20COP21%20produced%20a%20new%20international%20climate%20agreement%20-%20and%20why%20it%20just%20might%20work%20-%20Michael%20Jacobs.md)
