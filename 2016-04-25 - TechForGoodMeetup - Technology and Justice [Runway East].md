@@ -5,7 +5,7 @@
 ### Monday April 25th 2016, 18:30
 ### [Runway East](https://www.google.com/maps?f=q&hl=en&q=10+FINSBURY+SQUARE,+LONDON,+EC2A+1AF,+London,+gb)
 
-## | [Technology & Justice](http://www.meetup.com/techforgood/)
+## [Technology & Justice](http://www.meetup.com/techforgood/)
 
 Intro from the webpage:
 
