@@ -9,27 +9,27 @@
 
 Intro from the webpage:
 
-Technology and Justice - can technology help make the UK justice system more transparent and accessible to those who need it?
-
-This event will explore opportunities for technology to enhance the public's understanding of the justice system in the UK - whether from the position of a claimant or defendant in the courts, as a witness or as a victim of crime.
-
-Here's our fantastic lineup of speakers for the night:
-
-Katherine Vaughan from Citizens Advice - following CA's recent publication of ["Standing Alone - going to the family court without a lawyer"](https://blogs.citizensadvice.org.uk/blog/standing-alone-going-to-the-family-court-without-a-lawyer/), Katherine will discuss the dramatic increase in people representing themselves in the family courts as a result of cuts to legal aid. By bringing to light some of the key challenges of being a litigant in person, it's possible to recognise how technology can assist in making justice more accessible to those that need it.
-
-Julia Salasky, founder and CEO of [CrowdJustice](https://www.crowdjustice.co.uk/), the UK's first crowdfunding platform for litigation. CrowdJustice brings together individuals and communities to fund legal action, and has been featured as a "game changer" in TechCrunch, Forbes, the Financial Times, the Guardian and the BBC. It has successfully helped claimants raise £450,000 for cases including a major national legal challenge by junior doctors, and a successful intervention to the Supreme Court to change the law on joint enterprise.
-
-Tom Wynne-Morgan, service designer, working within the Ministry of Justice. Tom has worked on lots of innovative digital projects which look to revolutionise our interaction with the courts, through services such as 'making a claim to the employment tribunal' and Digital Divorce. Tom has a unique insight into the way that policy makers and service designers interact and work together to deliver a smarter and more people-centred justice system.
-
-Jessica Morley, on the executive team for [Chayn](http://chayn.co/), an open source project to empower women against violence and oppression and Project Manager of Ammal, Chayn's personal development network for women. Jessica will discuss how Chayn's digital tools and online education projects such as "How to Build Your Own Domestic Violence Case Without a Lawyer" empower women to understand their rights, protect themselves against violence and enable them to access justice.
-
-Jin Ho Verdonschot and Frances Singleton from [HiiL](http://www.hiil.org/) will be joining us by video link from the Netherlands. They helped develop and launch the [Rechtwijzer project](http://www.hiil.org/project/rechtwijzer) - a pioneering online dispute resolution system in the Netherlands, which allows people to process disputes outside of the court system. From the 600 divorces that have gone through the platform to date, they have compiled evidence to show that the system improves efficiency in terms of cost and time, and that the user experience has been greatly enhanced in comparison to taking a divorce through the courts. The Rechtwijzer project is being developed to support disputes between landlords and tenants and in the employment sector and is being adopted by other regions, such as British Columbia.
-
-This meetup will follow the usual format of drinks, with talks kicking off at 7.00pm and community announcements at the end, with time to finish off any leftover beers afterwards.  
-
-For the first time, we will be charging a small amount for this Meetup (£4), but this will be refunded on the night. It’s a bit of an experiment to test ways of managing numbers.
-
-We look forward to seeing you there!
+> Technology and Justice - can technology help make the UK justice system more transparent and accessible to those who need it?
+> 
+> This event will explore opportunities for technology to enhance the public's understanding of the justice system in the UK - whether from the position of a claimant or defendant in the courts, as a witness or as a victim of crime.
+> 
+> Here's our fantastic lineup of speakers for the night:
+> 
+> Katherine Vaughan from Citizens Advice - following CA's recent publication of ["Standing Alone - going to the family court without a lawyer"](https://blogs.citizensadvice.org.uk/blog/standing-alone-going-to-the-family-court-without-a-lawyer/), Katherine will discuss the dramatic increase in people representing themselves in the family courts as a result of cuts to legal aid. By bringing to light some of the key challenges of being a litigant in person, it's possible to recognise how technology can assist in making justice more accessible to those that need it.
+> 
+> Julia Salasky, founder and CEO of [CrowdJustice](https://www.crowdjustice.co.uk/), the UK's first crowdfunding platform for litigation. CrowdJustice brings together individuals and communities to fund legal action, and has been featured as a "game changer" in TechCrunch, Forbes, the Financial Times, the Guardian and the BBC. It has successfully helped claimants raise £450,000 for cases including a major national legal challenge by junior doctors, and a successful intervention to the Supreme Court to change the law on joint enterprise.
+> 
+> Tom Wynne-Morgan, service designer, working within the Ministry of Justice. Tom has worked on lots of innovative digital projects which look to revolutionise our interaction with the courts, through services such as 'making a claim to the employment tribunal' and Digital Divorce. Tom has a unique insight into the way that policy makers and service designers interact and work together to deliver a smarter and more people-centred justice system.
+> 
+> Jessica Morley, on the executive team for [Chayn](http://chayn.co/), an open source project to empower women against violence and oppression and Project Manager of Ammal, Chayn's personal development network for women. Jessica will discuss how Chayn's digital tools and online education projects such as "How to Build Your Own Domestic Violence Case Without a Lawyer" empower women to understand their rights, protect themselves against violence and enable them to access justice.
+> 
+> Jin Ho Verdonschot and Frances Singleton from [HiiL](http://www.hiil.org/) will be joining us by video link from the Netherlands. They helped develop and launch the [Rechtwijzer project](http://www.hiil.org/project/rechtwijzer) - a pioneering online dispute resolution system in the Netherlands, which allows people to process disputes outside of the court system. From the 600 divorces that have gone through the platform to date, they have compiled evidence to show that the system improves efficiency in terms of cost and time, and that the user experience has been greatly enhanced in comparison to taking a divorce through the courts. The Rechtwijzer project is being developed to support disputes between landlords and tenants and in the employment sector and is being adopted by other regions, such as British Columbia.
+> 
+> This meetup will follow the usual format of drinks, with talks kicking off at 7.00pm and community announcements at the end, with time to finish off any leftover beers afterwards.  
+> 
+> For the first time, we will be charging a small amount for this Meetup (£4), but this will be refunded on the night. It’s a bit of an experiment to test ways of managing numbers.
+> 
+> We look forward to seeing you there!
 
 # Main Event - Huw's Notes
 
