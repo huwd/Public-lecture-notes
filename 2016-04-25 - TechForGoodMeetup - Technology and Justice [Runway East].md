@@ -5,7 +5,7 @@
 ### Monday April 25th 2016, 18:30
 ### [Runway East](https://www.google.com/maps?f=q&hl=en&q=10+FINSBURY+SQUARE,+LONDON,+EC2A+1AF,+London,+gb)
 
-## [Technology & Justice](http://www.meetup.com/techforgood/)
+## | [Technology & Justice](http://www.meetup.com/techforgood/)
 
 Intro from the webpage:
 
@@ -30,6 +30,8 @@ Intro from the webpage:
 > For the first time, we will be charging a small amount for this Meetup (£4), but this will be refunded on the night. It’s a bit of an experiment to test ways of managing numbers.
 > 
 > We look forward to seeing you there!
+
+---
 
 # Main Event - Huw's Notes
 
@@ -79,6 +81,8 @@ There project has been shown to reduce the cost of disputes from an average of �
 
 > Ironically with our English language platform we've found that 15% of our users have gotten back together during proceedings. - Frances Singleton
 
+---
+
 ## Talk 2 - [Katherine Vaughan](https://blogs.citizensadvice.org.uk/blog/author/vaughank/), Policy Researcher, Citizens Advice Bureau
 ### "Going to family court without a family lawyer"
  
@@ -113,6 +117,8 @@ As a result where 1 in 5 divorce forms were previously being rejected, 100% of t
 
 > This is a really good example of where understanding user need can be really helpful in. - Katherine Vaughan
 
+---
+
 ## Talk 3 - [Julia Salasky](https://twitter.com/juliasalasky) - Founder of [Crowd Justice](https://www.crowdjustice.co.uk/)
 
 #### Access to the justice system is difficult + expensive
@@ -142,7 +148,9 @@ Caters for both Class action level interventions (eg. [Junior Drs Strike](https:
 One questioner is worried about the problems of going so public with a case, might it not hurt settlements etc?
 
 Her answer: If there's a chance it'll be settled before trial then perhaps crowdjustice isn't right... but by the time it goes to court all proceedings will be a matter of public record anyway. There are huge benefits to going public, usually the media plays a role here but they have their own selection criteria for who they promote. An effective campaign can allow the user of the justice system to play a role here too.
- 
+
+---
+
 ## Talk 4 - Jessica Morley - Founder of [CHAYN](http://chayn.co/)
 ### Open Source Projects to empower women against violence and oppression.
 
@@ -170,6 +178,7 @@ Q. How do you manage a living document between so many different legal systems, 
 
 A. London operates as a central organising node- but each country network has a great amount of autonomy - they are constantly on [slack](https://slack.com/) so there's a lot of communciation - but in short it's down to active management and communication between projects.
 
+---
 
 ## Talk 5 -  Tom Wynne-Morgan - Service designer within the Ministry of Justice.
 
@@ -202,6 +211,8 @@ There are positive movements from within government - a general move is underway
 The will is there, both from the top and the bottom - Online courts are likely to be a bigger factor in future - but there is a lot of entrenched interests.
 
 It's like turning an oil tanker - it will take time. 
+
+---
 
 ## Announcements
 
