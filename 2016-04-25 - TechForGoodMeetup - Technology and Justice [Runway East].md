@@ -7,6 +7,21 @@
 
 ## [Technology & Justice](http://www.meetup.com/techforgood/)
 
+Metadata
+
+    Date: "2016-04-25"
+    Title: "Technology and Justice"
+    Scheduled_start_time: 18:30
+    Scheduled_end_time: 21:30
+    Subtitle: "Can Technology help make the UK justice system more transparent and accessible to those who need it?"
+    Location: London
+    Country: GB
+    Institutions: Bethnal Green Ventures, Runway East
+    Departments: "N/A"
+    Speakers: Katherine Vaughan, Julia Salaky, Tom Wynne-Morgan, Jessica Morley, Frances Singleton
+    Audio_URL: "N/A"
+    Video_URL: "N/A"
+
 Intro from the webpage:
 
 > Technology and Justice - can technology help make the UK justice system more transparent and accessible to those who need it?
