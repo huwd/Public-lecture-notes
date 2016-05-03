@@ -3,7 +3,7 @@
 ## Technology and Justice - can technology help make the UK justice system more transparent and accessible to those who need it?
 
 ### Monday April 25th 2016, 18:30
-### [Runway East](https://www.google.com/maps?f=q&hl=en&q=10+FINSBURY+SQUARE,+LONDON,+EC2A+1AF,+London,+gb)
+### [Runway East](https://www.google.com/maps/place/10+Finsbury+Square,+London,+UK/@51.5212446,-0.0896937,17z/data=!3m1!4b1!4m2!3m1!1s0x48761caeb1aad1db:0xd136380926d8c84?hl=en)
 
 ## [Technology & Justice](http://www.meetup.com/techforgood/)
 
