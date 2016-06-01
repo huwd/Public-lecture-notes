@@ -15,18 +15,18 @@ If you also attended the lecture and have corrections / amendments they can be s
 ## Metadata format
 Each set of notes will come with consistent metadata, eg:
 
-- Date: "2016-01-21"
-- Title: "We'll always have Paris"
-- Subtitle: "How COP21 produced a new international climate agreement - and why it just might work"
-- Scheduled_start_time: 17:30
-- Scheduled_end_time: 19:00
-- Location: London
-- Country: GB
-- Institutions: [University College London](https://www.ucl.ac.uk/)
-- Departments: [Institute for Public Policy Research](https://www.ucl.ac.uk/public-policy) and [School of public Policy](https://www.ucl.ac.uk/public-policy)
-- Speakers: [Michael Jacobs](http://www.michaeljacobs.org/)
-- Audio_URL: "N/A"
-- Video_URL: "N/A"
+    Date: "2016-01-21"
+    Title: "We'll always have Paris"
+    Subtitle: "How COP21 produced a new international climate agreement - and why it just might work"
+    Scheduled_start_time: 17:30
+    Scheduled_end_time: 19:00
+    Location: London
+    Country: GB
+    Institutions: [University College London](https://www.ucl.ac.uk/)
+    Departments: [Institute for Public Policy Research](https://www.ucl.ac.uk/public-policy) and [School of public Policy](https://www.ucl.ac.uk/public-policy)
+    Speakers: [Michael Jacobs](http://www.michaeljacobs.org/)
+    Audio_URL: "N/A"
+    Video_URL: "N/A"
 
 ## Lectures Included
 
