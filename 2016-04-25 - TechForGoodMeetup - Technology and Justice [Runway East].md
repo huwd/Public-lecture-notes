@@ -5,12 +5,12 @@
 ### Monday April 25th 2016, 18:30
 ### Runway East
 
-## [Technology & Justice](http://www.meetup.com/techforgood/)
+## Technology & Justice
 
 Metadata
 
     Date: "2016-04-25"
-    Title: "Technology and Justice"
+    Title: [Technology & Justice](http://www.meetup.com/techforgood/)
     Scheduled_start_time: 18:30
     Scheduled_end_time: 21:30
     Subtitle: "Can Technology help make the UK justice system more transparent and accessible to those who need it?"
